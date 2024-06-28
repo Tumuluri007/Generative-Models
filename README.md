@@ -1,4 +1,4 @@
-# Generative-Models-
+# Generative-Models VAE
 
 This repository contains a Jupyter Notebook demonstrating image generation using Variational Autoencoders (VAEs). It includes:
 Detailed explanations of encoder and decoder implementations
